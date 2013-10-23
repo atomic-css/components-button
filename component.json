@@ -1,0 +1,9 @@
+{
+  "name": "components-button",
+  "repo": "atomic-css/components-button",
+  "description": "Button component",
+  "version": "1.0.0",
+  "styles": ["button.css"],
+  "author": "Lukáš Mladý",
+  "license": "MIT"
+}
